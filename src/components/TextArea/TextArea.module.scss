@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  height: auto;
+  .input {
+    width: 100%;
+    outline: none;
+    font-size: 18px;
+    resize: none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: 2px solid rgb(176, 176, 176);
+  }
+  p {
+    font-size: 20px;
+    text-align: justify;
+  }
+}
